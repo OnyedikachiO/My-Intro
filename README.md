@@ -1,132 +1,139 @@
 # Hello, I'm Onyedikachi
+
 <a href="https://www.linkedin.com/in/onyedikachi-okoh-405861262" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
 </a>
-## 👋 I'm a recent Crop Science graduate with a profound interest in technology and a strong dedication to solving complex problems through cybersecurity. I'm currently focused on  penetration testing, network attacks, web application hacking, and threat intelligence.
 
-I’m passionate about ethical hacking, system hardening, and building secure infrastructures, and I'm actively working through real-world CTF challenges to sharpen my skills.
+## 👋 About Me
+I'm a recent **Crop Science graduate** with a profound interest in **technology** and a strong dedication to solving complex problems through **cybersecurity**. I'm currently focused on **penetration testing**, **network attacks**, **web application hacking**, and **threat intelligence**.
 
-Let's connect and secure the digital world together. 🔐
+I'm passionate about **ethical hacking**, **system hardening**, and **building secure infrastructures**, and I'm actively working through **real-world CTF challenges** to sharpen my skills.
 
+Let’s connect and secure the digital world together. 🔐
 
-# Objective
+---
 
-As a recent graduate with a solid foundation in agricultural science and a deep passion for cybersecurity, I am seeking a challenging role where I can apply and expand my skills in penetration testing, and threat intelligence. My goal is to contribute to securing digital infrastructures while continuously learning, solving complex problems, and gaining real-world experience through ethical hacking, CTF challenges, and advanced security practices. I aim to be part of a forward-thinking team where I can grow into a skilled cybersecurity professional dedicated to protecting systems and data in an ever-evolving threat landscape.
+# 🎯 Objective
 
+As a recent graduate with a solid foundation in agricultural science and a deep passion for cybersecurity, I am seeking a challenging role where I can apply and expand my skills in **penetration testing** and **threat intelligence**. My goal is to:
 
-# Skills
-## 🛠 Skills
+- Contribute to securing digital infrastructures  
+- Continuously learn and solve complex security problems  
+- Gain hands-on experience via CTFs and advanced security practices  
+- Join a forward-thinking team committed to cybersecurity excellence
 
-### 🔐 Cybersecurity & Ethical Hacking
-- Penetration Testing (Network, Web Applications, Linux & Windows Systems) - 
-- Vulnerability Assessment & Exploitation
-- Threat Intelligence & Reconnaissance
-- Capture The Flag (CTF) Challenges
-- Social Engineering Awareness
+---
 
-### 🧰 Tools & Technologies
-- Kali Linux, Parrot OS
-- Nmap, Wireshark, Zenmap
-- Burp Suite, Metasploit, Hydra
-- John the Ripper
-- Nikto, Gobuster
-- VirtualBox, VMware
+# 🛠 Skills
 
-### 👨‍💻 Programming & Scripting
-- Bash Scripting
-- Python (Basic for automation and exploits)
-- JavaScript (Advanced-Level)
+## 🔐 Cybersecurity & Ethical Hacking
+- Penetration Testing (Network, Web Applications, Linux & Windows Systems)  
+- Vulnerability Assessment & Exploitation  
+- Threat Intelligence & Reconnaissance  
+- Capture The Flag (CTF) Challenges  
+- Social Engineering Awareness  
 
-### 🧪 Labs & Learning Platforms
-- TryHackMe, Hack The Box
-- LearnKarts - Coursera
+## 🧰 Tools & Technologies
+- Kali Linux, Parrot OS  
+- Nmap, Wireshark, Zenmap  
+- Burp Suite, Metasploit, Hydra  
+- John the Ripper, Nikto, Gobuster  
+- VirtualBox, VMware  
 
-### 🌱 Soft Skills
-- Critical Thinking & Problem Solving
-  * Authentic Inquiry
-  * Research
-  * Analysis
-  * Argument & Judgement
+## 👨‍💻 Programming & Scripting
+- Bash Scripting  
+- Python (Basic automation & exploits)  
+- JavaScript (Advanced-Level)  
 
-- Leadingship Skills
-  * Self awareness
-  * Self regulation
-  * Ethics and Integrity
-  * Self Improvement
-  * Empathy
-  * Feedback
-  * Influence
-  * Collaboration
-  * Relationship Building
+## 🧪 Labs & Learning Platforms
+- TryHackMe, Hack The Box  
+- LearnKarts, Coursera  
 
-- Quantitative Reasoning
-  * Empirical Research
-  * Data Based_Decision Making
-  * Uncertainity and Modeling in the real world
-  * Data Conceptualization
-  * Quantitative Problem Solving
+## 🌱 Soft Skills
 
-- Strong Communication Skills
-  * Organizing for effective Communication
-  * Audience Awareness
-  * Voice and Writing Process
-  * Story-Telling
+### Critical Thinking & Problem Solving
+- Authentic Inquiry, Research & Analysis  
+- Argumentation & Judgement  
 
-- Entrepreneurial Thinking
-  * Sustainability
-  * Viability
-  * Continous Iteration
-  * Human-Centered Thinking
-  * Creativity And Innovation
-  * Identify Opportunities
+### Leadership Skills
+- Self-awareness, Self-regulation  
+- Ethics, Integrity & Empathy  
+- Feedback, Influence, Collaboration  
 
-- Managing Complex-Tasks
-  * Defining The Problem
-  * Prioritization
-  * Structuring
-  * Workplanning And Resources Allocation
-  * Coordination
-  * Execution
+### Quantitative Reasoning
+- Empirical Research & Data Decision Making  
+- Modeling, Data Conceptualization, Problem Solving  
 
-- Tech Ecosystems
-  * Working in Technical and Product team
-  * Tech Tools
-  * Ethics in Tech
-  * Technical literacy
+### Communication
+- Effective Messaging, Audience Awareness  
+- Storytelling, Voice & Writing Process  
 
+### Entrepreneurial Thinking
+- Sustainability & Viability  
+- Iteration, Human-Centered Design  
+- Creativity, Innovation & Opportunity Discovery  
 
-# Skill	                   |  Associated Project
+### Managing Complex Tasks
+- Problem Definition & Prioritization  
+- Structuring, Planning, Coordination & Execution  
 
-Web Application Pentesting |   Automation Lab
-Vulnerability              |	 Detection Lab
-Network Traffic Monitoring |	 Detection Lab
-Wireshark Traffic Analysis |   Detection Lab
+### Understanding Tech Ecosystems
+- Working in Product/Tech Teams  
+- Digital Tools & Ethics in Tech  
+- Technical Literacy  
 
+---
 
-Network
-  
-Endpoint
- 
-SIEM
-  
-# Certifications
+# 🧪 Skills vs Projects
 
-## 📜 Certifications
+| Skill                        | Associated Project    |
+|-----------------------------|------------------------|
+| Web Application Pentesting  | Automation Lab         |
+| Vulnerability Detection     | Detection Lab          |
+| Network Traffic Monitoring  | Detection Lab          |
+| Wireshark Traffic Analysis  | Detection Lab          |
 
-- 🎓 *IBM Cybersecurity Analyst Professional Certificate*
-  - Penetration Testing, Threat Hunting & Cryptography  
-  - Incident Response & Digital Forensics
-  - Operating Systems Overview Administration Security
-  - Cybersecurity Compliance Framework Standards Regulations
-  - Database Essentials And VCulnerabilities
+---
 
-- 🎓 *LearnKarts Certified Ethical Hacking – CEH v12*
-  - System Security & Network Security
-  - Ethical Hacking Fundamentals
-  - Advanced Cybersecurity
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+# 🌐 Network Tools
 
-    
-Projects
-Detection Lab
-SOC Automation Project
+<div>
+  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Nmap-004170?&style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Netcat-000000?&style=for-the-badge&logoColor=white" />
+</div>
+
+---
+
+# 🌐 Web Application Tools
+
+<div>
+  <img src="https://img.shields.io/badge/-OWASP-000000?&style=for-the-badge&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Burp%20Suite-FF6600?&style=for-the-badge&logoColor=white" />
+</div>
+
+---
+
+# 🔓 Password Crackers
+
+<div>
+  <img src="https://img.shields.io/badge/-John%20the%20Ripper-8B0000?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Hydra-228B22?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Hashcat-2B2B2B?&style=for-the-badge&logoColor=white" />
+</div>
+
+---
+
+# 📜 Certifications
+
+### 🎓 IBM Cybersecurity Analyst Professional Certificate
+- OS Administration & Security  
+- Compliance Frameworks & Regulations  
+- Database Vulnerabilities  
+- Penetration Testing, Threat Hunting & Cryptography  
+- Incident Response & Digital Forensics  
+
+### 🎓 LearnKarts Certified Ethical Hacking – CEH v12
+- Ethical Hacking Fundamentals  
+- System & Network Security  
+- Advanced Cybersecurity  
