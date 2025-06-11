@@ -1,5 +1,7 @@
 # Hello, I'm Onyedikachi
-<a href = "https://www.linkedin.com/in/onyedikachi-okoh-405861262"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/onyedikachi-okoh-405861262" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+</a>
 [Brief Introduction - Remove this afterwards]
 
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
