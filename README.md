@@ -5,7 +5,7 @@
 </a>
 
 ## 👋 About Me
-I'm a recent **Crop Science graduate** with a profound interest in **technology** and a strong dedication to solving complex problems through **cybersecurity**. I'm currently focused on **penetration testing**, **network attacks**, **web application hacking**, and **threat intelligence**.
+I'm a recent **graduate** with a profound interest in **technology** and a strong dedication to solving complex problems through **cybersecurity**. I'm currently focused on **penetration testing**, **network attacks**, **web application hacking**, and **threat intelligence**.
 
 I'm passionate about **ethical hacking**, **system hardening**, and **building secure infrastructures**, and I'm actively working through **real-world CTF challenges** to sharpen my skills.
 
