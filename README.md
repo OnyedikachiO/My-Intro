@@ -18,7 +18,7 @@ As a recent graduate with a solid foundation in agricultural science and a deep 
 ## 🛠 Skills
 
 ### 🔐 Cybersecurity & Ethical Hacking
-- Penetration Testing (Network, Web Applications, Linux & Windows Systems)
+- Penetration Testing (Network, Web Applications, Linux & Windows Systems) - 
 - Vulnerability Assessment & Exploitation
 - Threat Intelligence & Reconnaissance
 - Capture The Flag (CTF) Challenges
@@ -28,7 +28,7 @@ As a recent graduate with a solid foundation in agricultural science and a deep 
 - Kali Linux, Parrot OS
 - Nmap, Wireshark, Zenmap
 - Burp Suite, Metasploit, Hydra
-- John the Ripper, Hashcat
+- John the Ripper
 - Nikto, Gobuster
 - VirtualBox, VMware
 
@@ -43,20 +43,65 @@ As a recent graduate with a solid foundation in agricultural science and a deep 
 
 ### 🌱 Soft Skills
 - Critical Thinking & Problem Solving
-- Self-Motivated & Quick Learner
-- Research-Oriented
-- Strong Communication Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+  * Authentic Inquiry
+  * Research
+  * Analysis
+  * Argument & Judgement
 
-Skill	Associated Project
-SIEM Implementation and Log Analysis	Detection Lab
-Network Traffic Monitoring and Attack Detection	Detection Lab
-Security Automation with Shuffle SOAR	SOC Automation Lab
-Incident Response Planning and Execution	SOC Automation Lab
-Case Management with TheHive	SOC Automation Lab
-Scripting and Automation for Threat Mitigation	SOC Automation Lab
-Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+- Leadingship Skills
+  * Self awareness
+  * Self regulation
+  * Ethics and Integrity
+  * Self Improvement
+  * Empathy
+  * Feedback
+  * Influence
+  * Collaboration
+  * Relationship Building
+
+- Quantitative Reasoning
+  * Empirical Research
+  * Data Based_Decision Making
+  * Uncertainity and Modeling in the real world
+  * Data Conceptualization
+  * Quantitative Problem Solving
+
+- Strong Communication Skills
+  * Organizing for effective Communication
+  * Audience Awareness
+  * Voice and Writing Process
+  * Story-Telling
+
+- Entrepreneurial Thinking
+  * Sustainability
+  * Viability
+  * Continous Iteration
+  * Human-Centered Thinking
+  * Creativity And Innovation
+  * Identify Opportunities
+
+- Managing Complex-Tasks
+  * Defining The Problem
+  * Prioritization
+  * Structuring
+  * Workplanning And Resources Allocation
+  * Coordination
+  * Execution
+
+- Tech Ecosystems
+  * Working in Technical and Product team
+  * Tech Tools
+  * Ethics in Tech
+  * Technical literacy
+
+
+# Skill	                   |  Associated Project
+
+Web Application Pentesting |   Automation Lab
+Vulnerability              |	 Detection Lab
+Network Traffic Monitoring |	 Detection Lab
+Wireshark Traffic Analysis |   Detection Lab
+
 
 Network
   
@@ -64,7 +109,21 @@ Endpoint
  
 SIEM
   
-Certifications
+# Certifications
+
+## 📜 Certifications
+
+- 🎓 *IBM Cybersecurity Analyst Professional Certificate*
+  - Penetration Testing, Threat Hunting & Cryptography  
+  - Incident Response & Digital Forensics
+  - Operating Systems Overview Administration Security
+  - Cybersecurity Compliance Framework Standards Regulations
+  - Database Essentials And VCulnerabilities
+
+- 🎓 *LearnKarts Certified Ethical Hacking – CEH v12*
+  - System Security & Network Security
+  - Ethical Hacking Fundamentals
+  - Advanced Cybersecurity
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 
     
