@@ -88,8 +88,10 @@ As a recent graduate with a solid foundation in agricultural science and a deep 
 
 | Skill                        | Associated Project    |
 |-----------------------------|------------------------|
-| Web Application Pentesting  | <a href="https://github.com/OnyedikachiO/Penetration-Test)">Penetration Test</a>         |
-| Vulnerability Detection     | <a href="https://github.com/OnyedikachiO/Penetration-Test)">Penetration Test</a>         |
+| Web Application Pentesting  | <a href="https://github.com/OnyedikachiO/Penetration-Test">Penetration Test</a>
+         |
+| Vulnerability Detection     | <a href="https://github.com/OnyedikachiO/Penetration-Test">Penetration Test</a>
+         |
 | Network Traffic Monitoring  | Detection Lab          |
 | Wireshark Traffic Analysis  | Detection Lab          |
 
