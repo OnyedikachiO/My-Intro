@@ -15,7 +15,7 @@ Let’s connect and secure the digital world together. 🔐
 
 # 🎯 Objective
 
-As a recent graduate with a solid foundation in agricultural science and a deep passion for cybersecurity, I am seeking a challenging role where I can apply and expand my skills in **penetration testing** and **threat intelligence**. My goal is to:
+As a recent graduate with a deep passion for cybersecurity, I am seeking a challenging role where I can apply and expand my skills in **penetration testing** and **threat intelligence**. My goal is to:
 
 - Contribute to securing digital infrastructures  
 - Continuously learn and solve complex security problems  
@@ -28,8 +28,7 @@ As a recent graduate with a solid foundation in agricultural science and a deep 
 
 ## 🔐 Cybersecurity & Ethical Hacking
 - Penetration Testing (Network, Web Applications, Linux & Windows Systems)  
-- Vulnerability Assessment & Exploitation  
-- Threat Intelligence & Reconnaissance  
+- Vulnerability Assessment & Exploitation    
 - Capture The Flag (CTF) Challenges  
 - Social Engineering Awareness  
 
@@ -46,8 +45,7 @@ As a recent graduate with a solid foundation in agricultural science and a deep 
 - JavaScript (Advanced-Level)  
 
 ## 🧪 Labs & Learning Platforms
-- TryHackMe, Hack The Box  
-- LearnKarts, Coursera  
+- TryHackMe
 
 ## 🌱 Soft Skills
 
@@ -88,8 +86,8 @@ As a recent graduate with a solid foundation in agricultural science and a deep 
 
 | Skill                        | Associated Project    |
 |-----------------------------|------------------------|
-| Web Application Pentesting  | <a href="https://github.com/OnyedikachiO/Penetration-Test">Penetration Test</a> |
-| Vulnerability Detection     | <a href="https://github.com/OnyedikachiO/Penetration-Test">Penetration Test</a> |
+| Web Application Pentesting  | Detection Lab          |
+| Network Security Testing     | <a href="https://github.com/OnyedikachiO/Penetration-Test">Penetration Test</a> |
 | Network Traffic Monitoring  | Detection Lab          |
 | Wireshark Traffic Analysis  | Detection Lab          |
 
@@ -126,14 +124,9 @@ As a recent graduate with a solid foundation in agricultural science and a deep 
 
 # 📜 Certifications
 
-### 🎓 IBM Cybersecurity Analyst Professional Certificate
-- OS Administration & Security  
-- Compliance Frameworks & Regulations  
-- Database Vulnerabilities  
-- Penetration Testing, Threat Hunting & Cryptography  
-- Incident Response & Digital Forensics  
+### 🎓 Pre-Security
+<a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-9M5XCYAEFN.pdf">Tryhackme</a>
 
-### 🎓 LearnKarts Certified Ethical Hacking – CEH v12
-- Ethical Hacking Fundamentals  
-- System & Network Security  
-- Advanced Cybersecurity  
+### 🎓 Cybersecurity 101
+ <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-4AYVMHVUCS.pdf">Tryhackme</a>
+
