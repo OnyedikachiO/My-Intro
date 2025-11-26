@@ -130,3 +130,5 @@ As a recent graduate with a deep passion for cybersecurity, I am seeking a chall
 ### 🎓 Cybersecurity 101
  <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-4AYVMHVUCS.pdf">Tryhackme</a>
 
+### 🎓 Jnr Penetration Tester
+ <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-1EWKAEDRRQ.pdf">Tryhackme</a>
